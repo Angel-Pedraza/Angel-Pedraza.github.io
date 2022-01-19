@@ -15,7 +15,7 @@ run `python3 manage.py runserver`
 int i = -3
 for (i < 0)
 {
-  printf(hi);
+  printf("hi"\n);
   i++;
 }
 ```
